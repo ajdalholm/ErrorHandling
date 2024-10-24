@@ -19,4 +19,6 @@ Test-ErrorActions
 #block 3 - ErrorAction set to stop
 Test-ErrorActions -ErrorAction Stop
 
+Get-Help about_Preference_Variables
+
 
