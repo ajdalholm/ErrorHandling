@@ -63,4 +63,5 @@ Test-TryCatchFinally -ThrowError
 #Block 5 - Throw unhandled error
 Test-TryCatchFinally -ThrowUnhandledError
 
-Get-Help about_Try_Catch_Finally -Online
+#Get-Help about_Try_Catch_Finally -Online
+#Get-Help about_Throw -online
